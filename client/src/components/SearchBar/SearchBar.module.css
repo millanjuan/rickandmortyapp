@@ -1,0 +1,20 @@
+.btn{
+    margin-left: 5px ;
+    border-radius: 5px ;
+    border: solid 1px transparent;
+    background-color: #00b1c8b9;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 26px;
+    color:white;
+
+    
+}
+
+.input{
+    border-radius: 5px;
+    border: solid 1px transparent;
+    background-color: #00b1c8b9 ;
+    height: 27px;
+    color: white;
+}

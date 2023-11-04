@@ -1,0 +1,8 @@
+.wrapperCards{
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: space-around; /*distribuye horizontalmente*/
+    width: 100%;
+    /* align-items: ; EJE VERTICAL */
+    margin-top: 50px;
+}

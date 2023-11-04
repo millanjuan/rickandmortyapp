@@ -1,0 +1,33 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:white;
+    width: 95%;
+}
+.wrapperButton{
+    display: flex;
+    text-align: center;
+    gap: 20px;
+    font: larger bold;
+    align-items: center;
+    
+}
+.linkRouter{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #00b1c8b9;
+    text-decoration: none;
+    color:inherit;
+    align-items: center;
+    border-radius: 15px;
+    height: 24px;
+    width: 120px;
+    border: solid 2px transparent;
+    font-size: small;
+    padding-top: 4px;
+    
+}
+img{
+    width: 250px;
+    border-radius: 0px;
+}

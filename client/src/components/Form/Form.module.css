@@ -1,0 +1,45 @@
+.wrapperForm{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    background-image: url(C:\Users\andreaflorencia\Desktop\juan\reactapp\Client\img\Login-background.jfif);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    justify-content: start;
+    align-items: center;
+    margin: auto;
+    margin-top: 50px;
+    border-radius:20px;
+    text-align: center
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    height: 500px;
+    border-radius: 30px */
+};
+
+.forma{
+    display: flex;
+    ;
+}
+
+.imgWrapper{
+    margin-bottom: 50%;
+    margin-top: 30px;
+}
+.label1{
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+.inputs{
+    border-radius: 15px;
+
+}
+
+.errors{
+    color:red
+}

@@ -1,0 +1,95 @@
+.cardContainer {
+    background-color: #00b1c875;
+    width: 320px;
+    height: 500px;
+    color: white;
+    border-radius: 14px;
+    border: solid 3px #50b75c;
+    font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+
+}
+.header {
+    position: relative;
+}
+.wrapperButton {        
+position: absolute;
+top: 5px;
+right: 5px;
+}
+.btn{
+    position: relative;
+    border-radius: 5px;
+    font-size: medium;
+    background-color: transparent;
+    color:white;
+    border-color: transparent;
+    top:0px;
+}
+.cardImg{
+   display: flex;
+    width: 90%;
+    border-radius: 80%;
+ }
+
+ .wrapperText{
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+ }
+
+
+ .name{
+   font-family: 'Open Sans', sans-serif;
+    padding-top: 0px;
+    display: flex;
+    align-items: top;
+    justify-content: center;
+    margin-top: 2px;
+ }
+
+ .statusAlive {
+    background-color: #98ce4cdc;
+    border-radius: 15px;
+    width: 80px;
+    text-align: center;
+    border: solid 2px green;
+    font-size: medium;
+    font-family: 'Open Sans', sans-serif;
+
+ }
+ .statusDead{
+    background-color: rgba(200, 8, 18, 0.748);
+    border-radius: 15px;
+    width: 80px;
+    text-align: center;
+    border: solid 1px red;
+    font-size: medium;
+    font-family: 'Open Sans', sans-serif;
+ }
+ .statusUnknown{
+   background-color: rgba(128, 128, 128, 0.659);
+    border-radius: 15px;
+    width: 80px;
+    text-align: center;
+    border: solid 1px grey;
+    font-size: medium;
+    font-family: 'Open Sans', sans-serif;
+ }
+ .wrapperStatusText{
+    display:flex;
+    justify-content: center;
+    margin-top: -20px;
+ }
+
+.wrapperImg{
+   display: flex;
+   justify-content: center;
+}
+.favBtn{
+   background-color: transparent;
+   border: none;
+   margin-top: 10px;
+   margin-left: 10px;
+   font-size: larger;
+}
