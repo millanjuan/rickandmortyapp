@@ -1,5 +1,5 @@
 body{
-  background-image: url(C:\Users\andreaflorencia\Desktop\juan\reactapp\Client\img\background-image.jpg);
+  background-image: url("../img/background-image.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
